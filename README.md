@@ -11,15 +11,15 @@ I focus on **integrating LLMs into software delivery with clear guardrails**—a
 
 ### Tooling & stack
 
+* **LLM tools:** **Claude Code**, GPT, Cursor
 * **Languages:** Python, TypeScript, Go, Dart, Java, PHP
-* **Frameworks:** React, Next.js, Express, Node.js, Flutter
-* **Infra/Delivery:** GitHub Actions, Docker, AWS, Sentry
-* **LLM tools:** **Claude Code**, Cursor, GPT
-* **Platforms/Services:** Firebase
+* **Frameworks/Libraries:** Django, React, Next.js, Flutter, Express
+* **API design & integration:** REST, webhooks, auth flows
+* **Infra/Delivery & services:** AWS, Docker, GitHub Actions, Sentry, Stripe
 
 ### Highlights
 
-* Built and shipped an **offline-first Flutter multiplatform app** supporting **14k+ daily active users** with **24/7 reliability**
+* Built and shipped an **offline-first Flutter multiplatform app** serving **14k+ daily active users** with **24/7 reliability**
 * Contributed to defining **AI architectural guardrails** for an AI-powered software development company
 * Strong focus on **release quality** (99.9% crash-free sessions) and scalable engineering practices
 
